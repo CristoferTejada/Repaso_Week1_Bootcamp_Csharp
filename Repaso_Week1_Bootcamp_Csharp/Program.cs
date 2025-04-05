@@ -29,6 +29,7 @@
             // Dias de la semana
             Console.WriteLine("=============================");
             Console.WriteLine("Dias de la semana");
+            Console.WriteLine("=============================");
             String diaSemana = "Lunes";
 
             switch (diaSemana)
@@ -49,6 +50,7 @@
             // Comprobar si un numero es impar o par
             Console.WriteLine("=============================");
             Console.Write("Ingrese un número: ");
+            Console.WriteLine("=============================");
             int num = int.Parse(Console.ReadLine());
 
             if (num % 2 == 0)
@@ -76,8 +78,9 @@
             Console.WriteLine($"El número más grande es: {mayor}");
 
             // Obtener el area del circulo o del cuadrado
-            Console.WriteLine("=============================");
+            Console.WriteLine("===============================================");
             Console.WriteLine("Seleccione la figura para calcular el área:");
+            Console.WriteLine("===============================================");
             Console.WriteLine("1. Círculo");
             Console.WriteLine("2. Rectángulo");
             Console.Write("Ingrese su elección: ");
