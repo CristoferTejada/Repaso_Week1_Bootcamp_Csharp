@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repaso_Week1_Bootcamp_Cshar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{102013F3-89A6-46B1-B8D5-F402A310CFF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2_Arrays", "Week2_Arrays\Week2_Arrays.csproj", "{0295FAD2-1F3F-49F9-A99C-359324DBB7FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{102013F3-89A6-46B1-B8D5-F402A310CFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{102013F3-89A6-46B1-B8D5-F402A310CFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{102013F3-89A6-46B1-B8D5-F402A310CFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0295FAD2-1F3F-49F9-A99C-359324DBB7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0295FAD2-1F3F-49F9-A99C-359324DBB7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0295FAD2-1F3F-49F9-A99C-359324DBB7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0295FAD2-1F3F-49F9-A99C-359324DBB7FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
