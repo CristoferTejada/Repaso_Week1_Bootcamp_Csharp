@@ -50,10 +50,8 @@
                 return;
             }
 
-            
             Dictionary<int, int> frecuencia = new Dictionary<int, int>();
 
-            
             foreach (int numero in arr)
             {
                 if (frecuencia.ContainsKey(numero))
@@ -69,12 +67,10 @@
             int cantidadDuplicados = 0;
             List<int> valoresDuplicados = new List<int>();
 
-            
             foreach (KeyValuePair<int, int> par in frecuencia)
             {
                 if (par.Value > 1)
                 {
-                    cantidadDuplicados += par.Value - 1; 
                     valoresDuplicados.Add(par.Key);
                 }
             }
