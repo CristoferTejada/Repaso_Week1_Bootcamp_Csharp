@@ -39,7 +39,7 @@
             // int[] arreglo = new int[] {44, 44, 32, 35}
             // Resultado: hay dos valores duplicados en el arreglo
 
-            int[] arreglo = new int[] { 44, 44, 32, 35, 44, 32, 10 };
+            int[] arreglo = new int[] { 44, 44, 32, 35, 44, 32, 10, 16 };
             ContarDuplicadosEnArreglo(arreglo);
         }
         public static void ContarDuplicadosEnArreglo(int[] arr)
